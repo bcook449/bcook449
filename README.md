@@ -33,7 +33,8 @@ I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at W
 ## 🚀 Projects
 Here are some projects and labs I'm working on or building for my portfolio:
 
-https://github.com/bcook449/Vulnerability-Management-Program
+[Vulnerability Management Program](https://github.com/bcook449/Vulnerability-Management-Program)
+
 
  
 
