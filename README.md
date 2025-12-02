@@ -18,8 +18,8 @@ I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at W
 ## 🧰 Technical Skills
 - **Security:** Microsoft Sentinel, Splunk, Wireshark, Sysmon  
 - **Operating Systems:** Windows, Linux (learning & improving)  
-- **Networking:** TCP/IP, DNS, Firewalls, Packet Analysis  
-- **Programming:** Python (comfortable), PowerShell (learning)  
+- **Networking:** TCP/IP, Wireshark, tcpdump, Snort  
+- **Programming:** Python, BASH  
 - **Certifications:** CompTIA A+, Network+, Security+, SSCP, CYSA+
 
 ---
@@ -33,12 +33,12 @@ I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at W
 ## 🚀 Projects
 Here are some projects and labs I'm working on or building for my portfolio:
 
-[Vulnerability Management Program](https://github.com/bcook449/Vulnerability-Management-Program)
+**[Vulnerability Management Program](https://github.com/bcook449/Vulnerability-Management-Program)
 
 
  
 
-(You can expand this section anytime as you build more labs.)
+
 
 ---
 
