@@ -1,5 +1,5 @@
 # Hi, I'm Brett Cook 👋  
-Cybersecurity Student | Aspiring Blue Team Analyst | LPN & IT Professional
+Cybersecurity Student | Aspiring Cyber Security Analyst | LPN & IT Professional
 
 I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at WGU**, building hands-on experience with defensive security tools, incident response techniques, and enterprise monitoring platforms. I enjoy learning through platforms like TCM Security.
 
@@ -17,10 +17,10 @@ I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at W
 
 ## 🧰 Technical Skills
 - **Security:** Microsoft Sentinel, Splunk, Wireshark, Sysmon  
-- **Operating Systems:** Windows, Linux (learning & improving)  
+- **Operating Systems:** Windows, Linux  
 - **Networking:** TCP/IP, Wireshark, tcpdump, Snort  
 - **Programming:** Python, BASH  
-- **Certifications:** CompTIA A+, Network+, Security+, SSCP, CYSA+
+- **Certifications:** CompTIA A+, Network+, Security+ CYSA+, ISC2 SSCP
 
 ---
 
