@@ -1,7 +1,7 @@
 # Hi, I'm Brett Cook 👋  
 Cybersecurity Student | Aspiring Cyber Security Analyst | LPN & IT Professional
 
-I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at WGU**, building hands-on experience with defensive security tools, incident response techniques, and enterprise monitoring platforms. I enjoy learning through platforms like TCM Security.
+I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at WGU**, building hands-on experience with defensive security tools, incident response techniques, and enterprise monitoring platforms. I enjoy learning through platforms like TCM Security and The Cyber Range.
 
 ---
 
