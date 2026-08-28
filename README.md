@@ -1,7 +1,11 @@
-# Hi, I'm Brett Cook 👋  
-Cybersecurity Student | Cyber Security Analyst 
+# Hi, I'm Brett Cook 👋
 
-I'm currently pursuing my **B.S. in Cybersecurity and Information Assurance at WGU**, building hands-on experience with defensive security tools, incident response techniques, and enterprise monitoring platforms. I enjoy learning through platforms like TCM Security and The Cyber Range.
+### Systems Administrator | Azure | Windows Server | Cybersecurity
+
+I'm an IT professional with a background in **cybersecurity, systems administration, and cloud technologies**. My experience includes working with **Windows and Linux environments, Microsoft Azure, Entra ID, Active Directory, PowerShell, endpoint management, and security monitoring**.
+
+I'm particularly interested in **Systems Administrator and Cloud Administrator roles**, where I can combine infrastructure administration, automation, troubleshooting, and security best practices.
+
 
 ---
 ## 🚀 Projects
