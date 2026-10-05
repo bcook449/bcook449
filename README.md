@@ -29,7 +29,7 @@ Here are some projects and labs I'm working on or building for my portfolio:
 
 ## 📚 Education
 **Western Governors University (WGU)**  
-*B.S. Cybersecurity & Information Assurance – In Progress*
+*B.S. Cybersecurity & Information Assurance 
 
 ---
 
