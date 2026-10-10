@@ -1,10 +1,11 @@
 # Hi, I'm Brett Cook 👋
-
 ### Systems Administrator | Azure | Windows Server | Cybersecurity
 
-I'm an IT professional with a background in **cybersecurity, systems administration, and cloud technologies**. My experience includes working with **Windows and Linux environments, Microsoft Azure, Entra ID, Active Directory, PowerShell, endpoint management, and security monitoring**.
+I'm an IT professional focused on **systems and cloud administration**, with hands-on experience across **Microsoft Azure, Windows Server, Linux, networking, PowerShell, and security operations**.
 
-I'm particularly interested in **Systems Administrator and Cloud Administrator roles**, where I can combine infrastructure administration, automation, troubleshooting, and security best practices.
+My projects focus on building and troubleshooting enterprise-style environments involving **Azure networking, virtual machines, identity and access management, monitoring, automation, and infrastructure security**.
+
+I'm pursuing **Systems Administrator and Cloud Administrator roles** where I can apply my cybersecurity background to building secure, reliable, and well-managed IT environments.
 
 
 ---
@@ -22,11 +23,12 @@ Here are some projects and labs I'm working on or building for my portfolio:
 ---
 
 ## 🧰 Technical Skills
-- **Security:** Microsoft Sentinel, Splunk, Wireshark, Sysmon  
-- **Operating Systems:** Windows, Linux  
-- **Networking:** TCP/IP, Wireshark, tcpdump, Snort  
-- **Programming:** Python, BASH  
-- **Certifications:** CompTIA A+, Network+, Security+ CYSA+, ISC2 SSCP
+- **Cloud & Azure:** Microsoft Azure, Virtual Networks, Virtual Machines, NSGs, Azure Monitor, Log Analytics, Entra ID
+- **Systems Administration:** Windows Server, Windows 10/11, Linux, PowerShell, Microsoft 365
+- **Networking:** TCP/IP, DNS, Subnetting, Network Segmentation, Firewall/NSG Configuration, Wireshark, tcpdump
+- **Security:** Microsoft Sentinel, Splunk, Tenable.io, Sysmon, Vulnerability Management, EDR
+- **Scripting:** PowerShell, Python, Bash
+- **Certifications:** CompTIA A+, Network+, Security+, CySA+, PenTest+; ISC2 SSCP
 
 ---
 
@@ -35,13 +37,13 @@ Here are some projects and labs I'm working on or building for my portfolio:
 *B.S. Cybersecurity & Information Assurance 
 
 ---
-
-## 🛡️ Interests & Focus Areas
-- Blue Team & Defensive Security  
-- SIEM (Microsoft Sentinel, Splunk)  
-- Threat Detection & Log Analysis  
-- Incident Response & Triage  
-- Windows & Network Security  
+## 🎯 Interests & Focus Areas
+- Azure & Cloud Administration
+- Windows Server & Systems Administration
+- Active Directory & Identity Management
+- Enterprise Networking & Troubleshooting
+- PowerShell Automation
+- Cloud & Infrastructure Security
 
 
 
