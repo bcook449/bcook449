@@ -5,7 +5,7 @@ I'm an IT professional focused on systems and cloud administration, with hands-o
 
 My projects focus on building and troubleshooting enterprise-style environments involving Azure networking, virtual machines, identity and access management, monitoring, automation, and infrastructure security.
 
-I'm pursuing Systems Administrator and Cloud Administrator roles where I can apply my cybersecurity background to building secure, reliable, and well-managed IT environments.
+I'm pursuing Systems Administrator and Cloud Administrator roles where I can apply my cybersecurity background to building secure, reliable, and well managed IT environments.
 
 
 ---
