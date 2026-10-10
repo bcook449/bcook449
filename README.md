@@ -1,11 +1,11 @@
 # Hi, I'm Brett Cook 👋
 ### Systems Administrator | Azure | Windows Server | Cybersecurity
 
-I'm an IT professional focused on **systems and cloud administration**, with hands-on experience across **Microsoft Azure, Windows Server, Linux, networking, PowerShell, and security operations**.
+I'm an IT professional focused on systems and cloud administration, with hands-on experience across Microsoft Azure, Windows Server, Linux, networking, PowerShell, and security operations.
 
-My projects focus on building and troubleshooting enterprise-style environments involving **Azure networking, virtual machines, identity and access management, monitoring, automation, and infrastructure security**.
+My projects focus on building and troubleshooting enterprise-style environments involving Azure networking, virtual machines, identity and access management, monitoring, automation, and infrastructure security.
 
-I'm pursuing **Systems Administrator and Cloud Administrator roles** where I can apply my cybersecurity background to building secure, reliable, and well-managed IT environments.
+I'm pursuing Systems Administrator and Cloud Administrator roles where I can apply my cybersecurity background to building secure, reliable, and well-managed IT environments.
 
 
 ---
