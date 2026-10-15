@@ -9,12 +9,16 @@ I'm pursuing Systems Administrator and Cloud Administrator roles where I can app
 
 
 ---
+
 ## 🚀 Projects
+
 Here are some projects and labs I'm working on or building for my portfolio:
 
 ☁️ [Azure Enterprise Network](https://github.com/bcook449/Azure-Enterprise-Network)
 
-🛡️ [Vulnerability Management Program](https://github.com/bcook449/Vulnerability-Management-Program)  
+🔐 [Microsoft Entra ID Enterprise Administration](https://github.com/bcook449/Entra-ID-Enterprise-Administration)
+
+🛡️ [Vulnerability Management Program](https://github.com/bcook449/Vulnerability-Management-Program)
 
 🎯 [Threat Hunting Scenario](https://github.com/bcook449/Threat-Hunting-Scenario)
  
